@@ -9,3 +9,6 @@
 - Learning path de ML - https://aws.amazon.com/training/learning-paths/machine-learning/exam-preparation/
 - Artigo bem interessante sobre LLMs e open-source - https://www.schneier.com/blog/archives/2023/06/open-source-llms.html
 - Zoologico de redes neurais - https://www.asimovinstitute.org/neural-network-zoo/
+- Kaggle, com projetos, competicoes e datasets - https://www.kaggle.com/
+- AWS Data Exchange - https://aws.amazon.com/marketplace/search/results?category=d5a43d97-558f-4be7-8543-cce265fe6d9d&FULFILLMENT_OPTION_TYPE=DATA_EXCHANGE&filters=FULFILLMENT_OPTION_TYPE&ref_=adx_hp_hr_brw&trk=adx_hp_hr_brw
+- 
