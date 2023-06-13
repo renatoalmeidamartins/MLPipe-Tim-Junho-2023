@@ -17,4 +17,7 @@
 - Kaggle, com projetos, competicoes e datasets - https://www.kaggle.com/
 - AWS Data Exchange - https://aws.amazon.com/marketplace/search/results?category=d5a43d97-558f-4be7-8543-cce265fe6d9d&FULFILLMENT_OPTION_TYPE=DATA_EXCHANGE&filters=FULFILLMENT_OPTION_TYPE&ref_=adx_hp_hr_brw&trk=adx_hp_hr_brw
 - Accuracy, recall, F1 (formas de avaliacao do modelo) - https://towardsdatascience.com/understanding-accuracy-recall-precision-f1-scores-and-confusion-matrices-561e0f5e328c
-
+- Repositório de exemplos do Sagemaker - https://github.com/aws/amazon-sagemaker-examples
+- Baseado no acima, com mais doc no readthedocs.io - https://sagemaker-examples.readthedocs.io/en/latest/
+- readthedocs do SDK - https://sagemaker.readthedocs.io/en/stable/
+- Algoritmos embarcados no sagemaker - https://docs.aws.amazon.com/sagemaker/latest/dg/algorithms-choose.html
