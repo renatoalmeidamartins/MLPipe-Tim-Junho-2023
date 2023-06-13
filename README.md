@@ -7,3 +7,4 @@
 - Preparacao de machine learning no skil builder - https://explore.skillbuilder.aws/learn/course/12469/aws-certified-machine-learning-specialty-official-practice-question-set-mls-c01-english
 - Infos do exame de ML (com link para guia do exame e questoes de exemplo) - https://aws.amazon.com/certification/certified-machine-learning-specialty/ 
 - Learning path de ML - https://aws.amazon.com/training/learning-paths/machine-learning/exam-preparation/
+- Artigo bem interessante sobre LLMs e open-source - https://www.schneier.com/blog/archives/2023/06/open-source-llms.html
