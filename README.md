@@ -44,3 +44,4 @@ Jonathan Asti - jonathan.asti@flane.com.pe<br>
 - Fazendo validação de K-fold no Sagemaker - https://aws.amazon.com/blogs/architecture/field-notes-build-a-cross-validation-machine-learning-model-pipeline-at-scale-with-amazon-sagemaker/
 - Definições de validação de modelo - https://docs.aws.amazon.com/sagemaker/latest/dg/how-it-works-model-validation.html
 - Usando Scikit-learn para k-fold e estratificação de dados de treinamento - https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html 
+- Bring your model using scripts to Sagemaker - https://aws.amazon.com/blogs/machine-learning/bring-your-own-model-with-amazon-sagemaker-script-mode/
