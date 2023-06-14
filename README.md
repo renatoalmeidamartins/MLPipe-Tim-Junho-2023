@@ -41,5 +41,7 @@ Jonathan Asti - jonathan.asti@flane.com.pe<br>
 - SMOTE (uma tecnica para lidar com amostras enviesados) - https://imbalanced-learn.org/stable/references/generated/imblearn.over_sampling.SMOTE.html
 - SimpleImputer (classe do scikit para gerar valores adicionados) - https://scikit-learn.org/stable/modules/generated/sklearn.impute.SimpleImputer.html
 - GANs (redes neurais para geração de dados para aumentar amostras) - https://towardsdatascience.com/how-to-build-gans-to-synthesize-data-64334b877f70
+- Fazendo validação de K-fold no Sagemaker - https://aws.amazon.com/blogs/architecture/field-notes-build-a-cross-validation-machine-learning-model-pipeline-at-scale-with-amazon-sagemaker/
+- Definições de validação de modelo - https://docs.aws.amazon.com/sagemaker/latest/dg/how-it-works-model-validation.html
 - 
 - 
