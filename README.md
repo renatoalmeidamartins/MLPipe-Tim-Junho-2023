@@ -1,3 +1,9 @@
+# Infos de contato para obtenção do voucher de certificação
+Jonathan Asti
+jonathan.asti@flane.com.pe
++51977724713
+Skype: jon.asti.c
+
 # Exercícios
 - [Formulação do problema](https://github.com/renatoalmeidamartins/MLPipe-Tim-Junho-2023/blob/main/Problem%2BFormulation%2BExercise.docx)
 - [Formulação do problema - solução](https://github.com/renatoalmeidamartins/MLPipe-Tim-Junho-2023/blob/main/Problem%2BFormulation%2BExercise%2BSolutions.docx)
