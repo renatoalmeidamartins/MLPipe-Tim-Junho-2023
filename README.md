@@ -37,4 +37,4 @@ Jonathan Asti - jonathan.asti@flane.com.pe<br>
 - Formatos suportados de dados para treinamento - https://docs.aws.amazon.com/sagemaker/latest/dg/cdf-training.html
 - Questionário de checkpoint - https://amazonmr.au1.qualtrics.com/jfe/form/SV_7aH7TW8Dwndo9gN
 - Sagemaker Canvas para avaliacao de desempenho de modelo - https://docs.aws.amazon.com/sagemaker/latest/dg/canvas-scoring.html
-- 
+- S3 transfer acceleration speed test - https://s3-accelerate-speedtest.s3-accelerate.amazonaws.com/en/accelerate-speed-comparsion.html
