@@ -26,3 +26,8 @@ Jonathan Asti - jonathan.asti@flane.com.pe<br>
 - Baseado no acima, com mais doc no readthedocs.io - https://sagemaker-examples.readthedocs.io/en/latest/
 - readthedocs do SDK - https://sagemaker.readthedocs.io/en/stable/
 - Algoritmos embarcados no sagemaker - https://docs.aws.amazon.com/sagemaker/latest/dg/algorithms-choose.html
+
+# Links do dia 2
+- Hiperpoarametros do XGBoost - https://docs.aws.amazon.com/sagemaker/latest/dg/xgboost_hyperparameters.html
+- Formatos suportados de dados para treinamento - https://docs.aws.amazon.com/sagemaker/latest/dg/cdf-training.html
+- Questionário de checkpoint - https://amazonmr.au1.qualtrics.com/jfe/form/SV_7aH7TW8Dwndo9gN
