@@ -38,3 +38,8 @@ Jonathan Asti - jonathan.asti@flane.com.pe<br>
 - Questionário de checkpoint - https://amazonmr.au1.qualtrics.com/jfe/form/SV_7aH7TW8Dwndo9gN
 - Sagemaker Canvas para avaliacao de desempenho de modelo - https://docs.aws.amazon.com/sagemaker/latest/dg/canvas-scoring.html
 - S3 transfer acceleration speed test - https://s3-accelerate-speedtest.s3-accelerate.amazonaws.com/en/accelerate-speed-comparsion.html
+- SMOTE (uma tecnica para lidar com amostras enviesados) - https://imbalanced-learn.org/stable/references/generated/imblearn.over_sampling.SMOTE.html
+- SimpleImputer (classe do scikit para gerar valores adicionados) - https://scikit-learn.org/stable/modules/generated/sklearn.impute.SimpleImputer.html
+- GANs (redes neurais para geração de dados para aumentar amostras) - https://towardsdatascience.com/how-to-build-gans-to-synthesize-data-64334b877f70
+- 
+- 
