@@ -6,6 +6,10 @@ Jonathan Asti - jonathan.asti@flane.com.pe<br>
 - [Formulação do problema](https://github.com/renatoalmeidamartins/MLPipe-Tim-Junho-2023/blob/main/Problem%2BFormulation%2BExercise.docx)
 - [Formulação do problema - solução](https://github.com/renatoalmeidamartins/MLPipe-Tim-Junho-2023/blob/main/Problem%2BFormulation%2BExercise%2BSolutions.docx)
 - [Modelo de projeto](https://github.com/renatoalmeidamartins/MLPipe-Tim-Junho-2023/blob/main/Student%20Project%20Template.docx)
+- Notebooks iniciais para cada projeto:
+  - [Fraude de cartão](https://github.com/renatoalmeidamartins/MLPipe-Tim-Junho-2023/blob/main/Credit_Card_Fraud_Detection-Student.ipynb)
+  - [Atrasos de vôo](https://github.com/renatoalmeidamartins/MLPipe-Tim-Junho-2023/blob/main/Flight_Delay-Student.ipynb)
+  - [Recomendações](https://github.com/renatoalmeidamartins/MLPipe-Tim-Junho-2023/blob/main/Amazon_Reviews-Student.ipynb)
 
 
 # Links do dia 1
