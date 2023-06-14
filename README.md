@@ -29,6 +29,6 @@ Jonathan Asti - jonathan.asti@flane.com.pe<br>
 
 # Links do dia 2
 - Na execução do lab, em caso de erro para importar `CSVSerializer`, substitua `from sagemaker.predictor import CSVSerializer` por `from sagemaker.serializers import CSVSerializer`
-- Hiperpoarametros do XGBoost - https://docs.aws.amazon.com/sagemaker/latest/dg/xgboost_hyperparameters.html
+- Hiperparametros do XGBoost - https://docs.aws.amazon.com/sagemaker/latest/dg/xgboost_hyperparameters.html
 - Formatos suportados de dados para treinamento - https://docs.aws.amazon.com/sagemaker/latest/dg/cdf-training.html
 - Questionário de checkpoint - https://amazonmr.au1.qualtrics.com/jfe/form/SV_7aH7TW8Dwndo9gN
