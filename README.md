@@ -45,3 +45,6 @@ Jonathan Asti - jonathan.asti@flane.com.pe<br>
 - Definições de validação de modelo - https://docs.aws.amazon.com/sagemaker/latest/dg/how-it-works-model-validation.html
 - Usando Scikit-learn para k-fold e estratificação de dados de treinamento - https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html 
 - Bring your model using scripts to Sagemaker - https://aws.amazon.com/blogs/machine-learning/bring-your-own-model-with-amazon-sagemaker-script-mode/
+
+  # Links do dia 3
+  - biblioteca de pre-processamento do scikit-learn (com inumeros tipos de scaler disponiveis). Atencao especial para os discutidos no material MinMax, MaxAbs, RobustScaler - https://scikit-learn.org/stable/modules/classes.html#module-sklearn.preprocessing
