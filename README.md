@@ -49,3 +49,5 @@ Jonathan Asti - jonathan.asti@flane.com.pe<br>
   # Links do dia 3
   - biblioteca de pre-processamento do scikit-learn (com inumeros tipos de scaler disponiveis). Atencao especial para os discutidos no material MinMax, MaxAbs, RobustScaler - https://scikit-learn.org/stable/modules/classes.html#module-sklearn.preprocessing
  - GetDummies de Pandas (converte valores categoricos em verdadeiro/falso) - https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.get_dummies.html
+ - CodeWhisperer, gerando codigo com base em IA - https://aws.amazon.com/codewhisperer
+ - CodeWhisperer no VS Code - https://docs.aws.amazon.com/toolkit-for-vscode/latest/userguide/codewhisperer.html
