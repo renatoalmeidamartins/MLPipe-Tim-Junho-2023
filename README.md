@@ -51,3 +51,4 @@ Jonathan Asti - jonathan.asti@flane.com.pe<br>
  - GetDummies de Pandas (converte valores categoricos em verdadeiro/falso) - https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.get_dummies.html
  - CodeWhisperer, gerando codigo com base em IA - https://aws.amazon.com/codewhisperer
  - CodeWhisperer no VS Code - https://docs.aws.amazon.com/toolkit-for-vscode/latest/userguide/codewhisperer.html
+ - Fazendo plot das metricas do sagemaker - https://aws.amazon.com/blogs/machine-learning/easily-monitor-and-visualize-metrics-while-training-models-on-amazon-sagemaker/
