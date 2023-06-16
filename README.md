@@ -60,4 +60,10 @@ Jonathan Asti - jonathan.asti@flane.com.pe<br>
  - O projeto fenix - https://www.amazon.com.br/projeto-f%C3%AAnix-comemorativa-romance-neg%C3%B3cio/dp/8550814067
  - Projeto unicornio - https://www.amazon.com.br/Projeto-Unic%C3%B3rnio-Romance-Desenvolvedores-Disrup%C3%A7%C3%A3o/dp/6555203447
  - Working backwards - https://www.amazon.com.br/Obsess%C3%A3o-pelo-cliente-Colin-Bryar/dp/6550471257
- - 
+ - Pipelines do sagemaker - https://aws.amazon.com/blogs/machine-learning/building-automating-managing-and-scaling-ml-workflows-using-amazon-sagemaker-pipelines/
+ - Conceitos gerais de model monitor - https://docs.aws.amazon.com/sagemaker/latest/dg/model-monitor.html
+
+# Sugestões de arquitetura de solução
+- Deteção de fraude - https://aws.amazon.com/blogs/machine-learning/detect-fraudulent-transactions-using-machine-learning-with-amazon-sagemaker/
+- Detecção de fraude - arquitetura detalhada - https://docs.aws.amazon.com/solutions/latest/fraud-detection-using-machine-learning/architecture-overview.html
+- 
