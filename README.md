@@ -56,3 +56,8 @@ Jonathan Asti - jonathan.asti@flane.com.pe<br>
  - # Links do dia 4
  - Traga seu container para o sagemaker - https://aws.amazon.com/blogs/machine-learning/bringing-your-own-custom-container-image-to-amazon-sagemaker-studio-notebooks/
  - Quebrando um monolito em microservicos - https://aws.amazon.com/getting-started/hands-on/break-monolith-app-microservices-ecs-docker-ec2/
+ - Video que "inaugura" o movimento devops - https://www.youtube.com/watch?v=LdOe18KhtT4
+ - O projeto fenix - https://www.amazon.com.br/projeto-f%C3%AAnix-comemorativa-romance-neg%C3%B3cio/dp/8550814067
+ - Projeto unicornio - https://www.amazon.com.br/Projeto-Unic%C3%B3rnio-Romance-Desenvolvedores-Disrup%C3%A7%C3%A3o/dp/6555203447
+ - Working backwards - https://www.amazon.com.br/Obsess%C3%A3o-pelo-cliente-Colin-Bryar/dp/6550471257
+ - 
