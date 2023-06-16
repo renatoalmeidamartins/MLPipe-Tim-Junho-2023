@@ -71,3 +71,5 @@ Jonathan Asti - jonathan.asti@flane.com.pe<br>
 - Deteção de fraude - https://aws.amazon.com/blogs/machine-learning/detect-fraudulent-transactions-using-machine-learning-with-amazon-sagemaker/
 - Detecção de fraude - arquitetura detalhada - https://docs.aws.amazon.com/solutions/latest/fraud-detection-using-machine-learning/architecture-overview.html
 - Random Cut forest - amplamente usado para detecção de anomalias - https://docs.aws.amazon.com/kinesisanalytics/latest/sqlref/sqlrf-random-cut-forest.html
+- Sugestão de recomendações de filmes utilizando "factorization machines"- https://aws.amazon.com/blogs/machine-learning/build-a-movie-recommender-with-factorization-machines-on-amazon-sagemaker/
+- Uma solução para predição de atrasos de vôo, embora não considere clima - https://www.kaggle.com/code/fabiendaniel/predicting-flight-delays-tutorial
