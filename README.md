@@ -55,3 +55,4 @@ Jonathan Asti - jonathan.asti@flane.com.pe<br>
 
  - # Links do dia 4
  - Traga seu container para o sagemaker - https://aws.amazon.com/blogs/machine-learning/bringing-your-own-custom-container-image-to-amazon-sagemaker-studio-notebooks/
+ - Quebrando um monolito em microservicos - https://aws.amazon.com/getting-started/hands-on/break-monolith-app-microservices-ecs-docker-ec2/
