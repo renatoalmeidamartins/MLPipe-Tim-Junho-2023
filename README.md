@@ -10,7 +10,11 @@ Jonathan Asti - jonathan.asti@flane.com.pe<br>
   - [Fraude de cartão](https://github.com/renatoalmeidamartins/MLPipe-Tim-Junho-2023/blob/main/Credit_Card_Fraud_Detection-Student.ipynb)
   - [Atrasos de vôo](https://github.com/renatoalmeidamartins/MLPipe-Tim-Junho-2023/blob/main/Flight_Delay-Student.ipynb)
   - [Recomendações](https://github.com/renatoalmeidamartins/MLPipe-Tim-Junho-2023/blob/main/Amazon_Reviews-Student.ipynb)
-
+- Notebooks de soluções de cada projeto:
+  - [Fraude de cartão](https://github.com/renatoalmeidamartins/MLPipe-Tim-Junho-2023/blob/main/Credit_Card_Fraud_Detection-Solution.ipynb)
+  - [Atrasos de vôo](https://github.com/renatoalmeidamartins/MLPipe-Tim-Junho-2023/blob/main/Flight_Delay-Solution.ipynb)
+  - [Recomendações](https://github.com/renatoalmeidamartins/MLPipe-Tim-Junho-2023/blob/main/Amazon_Reviews-Solution.ipynb)
+ 
 
 # Links do dia 1
 
