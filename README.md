@@ -52,3 +52,6 @@ Jonathan Asti - jonathan.asti@flane.com.pe<br>
  - CodeWhisperer, gerando codigo com base em IA - https://aws.amazon.com/codewhisperer
  - CodeWhisperer no VS Code - https://docs.aws.amazon.com/toolkit-for-vscode/latest/userguide/codewhisperer.html
  - Fazendo plot das metricas do sagemaker - https://aws.amazon.com/blogs/machine-learning/easily-monitor-and-visualize-metrics-while-training-models-on-amazon-sagemaker/
+
+ - # Links do dia 4
+ - Traga seu container para o sagemaker - https://aws.amazon.com/blogs/machine-learning/bringing-your-own-custom-container-image-to-amazon-sagemaker-studio-notebooks/
