@@ -70,4 +70,4 @@ Jonathan Asti - jonathan.asti@flane.com.pe<br>
 # Sugestões de arquitetura de solução
 - Deteção de fraude - https://aws.amazon.com/blogs/machine-learning/detect-fraudulent-transactions-using-machine-learning-with-amazon-sagemaker/
 - Detecção de fraude - arquitetura detalhada - https://docs.aws.amazon.com/solutions/latest/fraud-detection-using-machine-learning/architecture-overview.html
-- Random Cut forest - amplamente usado para detecção de anomlaias - https://docs.aws.amazon.com/kinesisanalytics/latest/sqlref/sqlrf-random-cut-forest.html
+- Random Cut forest - amplamente usado para detecção de anomalias - https://docs.aws.amazon.com/kinesisanalytics/latest/sqlref/sqlrf-random-cut-forest.html
