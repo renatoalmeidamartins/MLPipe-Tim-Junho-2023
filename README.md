@@ -1,3 +1,7 @@
+# Meus dados de contato:
+- Email: renatoalmeidamartins@gmail.com
+- Linkedin: https://www.linkedin.com/in/renatodealmeidamartins/
+
 # Infos de contato para obtenção do voucher de certificação
 Jonathan Asti - jonathan.asti@flane.com.pe<br>
 +51977724713 - Skype: jon.asti.c
@@ -73,3 +77,7 @@ Jonathan Asti - jonathan.asti@flane.com.pe<br>
 - Random Cut forest - amplamente usado para detecção de anomalias - https://docs.aws.amazon.com/kinesisanalytics/latest/sqlref/sqlrf-random-cut-forest.html
 - Sugestão de recomendações de filmes utilizando "factorization machines"- https://aws.amazon.com/blogs/machine-learning/build-a-movie-recommender-with-factorization-machines-on-amazon-sagemaker/
 - Uma solução para predição de atrasos de vôo, embora não considere clima - https://www.kaggle.com/code/fabiendaniel/predicting-flight-delays-tutorial
+
+# Links adicionais
+- API de recomendação (Personalize) - https://aws.amazon.com/personalize/
+- Customização detalhada de recomendações - https://aws.amazon.com/blogs/machine-learning/building-a-customized-recommender-system-in-amazon-sagemaker/
